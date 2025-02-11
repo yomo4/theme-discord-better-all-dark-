@@ -1,0 +1,63 @@
+/**
+ * @name on vacation
+ * @author yomo4 (vlonecvc)
+ * @version 1.0.0
+ * @description Красивая кастомная тема для Discord
+ */
+
+/* Основные цвета */
+:root {
+    --main-color: #000000;
+    --hover-color: #000000;
+    --background-primary: #000000;
+    --background-secondary: #000000;
+    --background-tertiary: #000000;
+    --text-normal: #dcddde;
+    --text-muted: #72767d;
+    --accent-color: #000000;
+}
+
+/* Основной фон */
+.app-2rEoOp {
+    background-color: #000000;
+}
+
+/* Фон чата */
+.chat-3bRxxu {
+    background-color: #000000;
+}
+
+/* Боковая панель */
+.sidebar-2K8pFh {
+    background-color: #000000;
+}
+
+/* Голосовые каналы */
+.container-1giJp5 {
+    background-color: #000000;
+}
+
+/* Область стрима */
+.streamPreview-I7itZ6 {
+    background-color: #000000;
+}
+
+/* Фон стрима */
+.videoWrapper-2v09vt {
+    background-color: #000000;
+}
+
+/* Остальные стили остаются теми же */
+/* ... existing code ... */
+
+/* Дополнительно затемним все возможные светлые элементы */
+.theme-dark {
+    --background-primary: #000000;
+    --background-secondary: #000000;
+    --background-secondary-alt: #000000;
+    --background-tertiary: #000000;
+    --background-floating: #000000;
+    --background-modifier-hover: #000000;
+    --background-modifier-active: #000000;
+    --background-modifier-selected: #000000;
+}
